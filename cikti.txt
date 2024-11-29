@@ -1,0 +1,854 @@
+AD: selver
+OgrNo: 102
+Arasinav: 98
+Ikinci Sinav: 82
+Odev: 79
+Final: 96
+----------------------------
+AD: oğuz
+OgrNo: 105
+Arasinav: 33
+Ikinci Sinav: 55
+Odev: 35
+Final: 84
+----------------------------
+AD: Eren
+OgrNo: 111
+Arasinav: 75
+Ikinci Sinav: 35
+Odev: 90
+Final: 64
+----------------------------
+AD: Esma
+OgrNo: 134
+Arasinav: 34
+Ikinci Sinav: 76
+Odev: 45
+Final: 76
+----------------------------
+AD: Osman
+OgrNo: 144
+Arasinav: 39
+Ikinci Sinav: 3
+Odev: 40
+Final: 13
+----------------------------
+AD: ihsan
+OgrNo: 112
+Arasinav: 77
+Ikinci Sinav: 66
+Odev: 55
+Final: 44
+----------------------------
+AD: oğuz
+OgrNo: 105
+Arasinav: 33
+Ikinci Sinav: 55
+Odev: 35
+Final: 94
+----------------------------
+AD: polat
+OgrNo: 117
+Arasinav: 24
+Ikinci Sinav: 58
+Odev: 98
+Final: 42
+----------------------------
+AD: mert
+OgrNo: 123
+Arasinav: 15
+Ikinci Sinav: 75
+Odev: 90
+Final: 72
+----------------------------
+AD: yusuf
+OgrNo: 124
+Arasinav: 80
+Ikinci Sinav: 75
+Odev: 80
+Final: 80
+----------------------------
+AD: zübeyde
+OgrNo: 127
+Arasinav: 82
+Ikinci Sinav: 8
+Odev: 83
+Final: 90
+----------------------------
+AD: Esma
+OgrNo: 134
+Arasinav: 34
+Ikinci Sinav: 76
+Odev: 45
+Final: 76
+----------------------------
+AD: Osman
+OgrNo: 144
+Arasinav: 39
+Ikinci Sinav: 3
+Odev: 40
+Final: 13
+----------------------------
+AD: mehmet
+OgrNo: 156
+Arasinav: 85
+Ikinci Sinav: 100
+Odev: 40
+Final: 35
+----------------------------
+AD: safiye
+OgrNo: 166
+Arasinav: 52
+Ikinci Sinav: 74
+Odev: 55
+Final: 72
+----------------------------
+AD: hasan
+OgrNo: 174
+Arasinav: 51
+Ikinci Sinav: 45
+Odev: 52
+Final: 45
+----------------------------
+AD: arda
+OgrNo: 178
+Arasinav: 72
+Ikinci Sinav: 53
+Odev: 47
+Final: 74
+----------------------------
+AD: mustafa
+OgrNo: 210
+Arasinav: 29
+Ikinci Sinav: 99
+Odev: 16
+Final: 64
+----------------------------
+AD: inrahim
+OgrNo: 216
+Arasinav: 36
+Ikinci Sinav: 85
+Odev: 97
+Final: 90
+----------------------------
+AD: Ahmed
+OgrNo: 222
+Arasinav: 54
+Ikinci Sinav: 65
+Odev: 34
+Final: 12
+----------------------------
+AD: ela
+OgrNo: 225
+Arasinav: 43
+Ikinci Sinav: 51
+Odev: 3
+Final: 1
+----------------------------
+AD: Leyla
+OgrNo: 226
+Arasinav: 85
+Ikinci Sinav: 97
+Odev: 12
+Final: 4
+----------------------------
+AD: nuri
+OgrNo: 230
+Arasinav: 23
+Ikinci Sinav: 22
+Odev: 34
+Final: 51
+----------------------------
+AD: neşe
+OgrNo: 231
+Arasinav: 29
+Ikinci Sinav: 68
+Odev: 84
+Final: 88
+----------------------------
+AD: kadir
+OgrNo: 237
+Arasinav: 85
+Ikinci Sinav: 32
+Odev: 79
+Final: 42
+----------------------------
+AD: yasin
+OgrNo: 246
+Arasinav: 87
+Ikinci Sinav: 73
+Odev: 86
+Final: 90
+----------------------------
+AD: zeliha
+OgrNo: 254
+Arasinav: 12
+Ikinci Sinav: 95
+Odev: 0
+Final: 100
+----------------------------
+AD: salim
+OgrNo: 255
+Arasinav: 95
+Ikinci Sinav: 95
+Odev: 95
+Final: 95
+----------------------------
+AD: emre
+OgrNo: 258
+Arasinav: 60
+Ikinci Sinav: 70
+Odev: 80
+Final: 50
+----------------------------
+AD: idris
+OgrNo: 261
+Arasinav: 60
+Ikinci Sinav: 42
+Odev: 80
+Final: 72
+----------------------------
+AD: elif
+OgrNo: 275
+Arasinav: 100
+Ikinci Sinav: 63
+Odev: 48
+Final: 75
+----------------------------
+AD: irfan
+OgrNo: 291
+Arasinav: 2
+Ikinci Sinav: 77
+Odev: 97
+Final: 57
+----------------------------
+AD: nuriye
+OgrNo: 297
+Arasinav: 92
+Ikinci Sinav: 83
+Odev: 49
+Final: 4
+----------------------------
+AD: doruk
+OgrNo: 303
+Arasinav: 54
+Ikinci Sinav: 79
+Odev: 34
+Final: 84
+----------------------------
+AD: yavuz
+OgrNo: 313
+Arasinav: 52
+Ikinci Sinav: 97
+Odev: 27
+Final: 95
+----------------------------
+AD: furkan
+OgrNo: 321
+Arasinav: 5
+Ikinci Sinav: 10
+Odev: 100
+Final: 85
+----------------------------
+AD: selin
+OgrNo: 326
+Arasinav: 45
+Ikinci Sinav: 36
+Odev: 100
+Final: 63
+----------------------------
+AD: İhsan
+OgrNo: 327
+Arasinav: 70
+Ikinci Sinav: 65
+Odev: 90
+Final: 90
+----------------------------
+AD: melike
+OgrNo: 330
+Arasinav: 45
+Ikinci Sinav: 78
+Odev: 86
+Final: 50
+----------------------------
+AD: ismail
+OgrNo: 334
+Arasinav: 81
+Ikinci Sinav: 12
+Odev: 25
+Final: 91
+----------------------------
+AD: Polat
+OgrNo: 340
+Arasinav: 100
+Ikinci Sinav: 100
+Odev: 100
+Final: 100
+----------------------------
+AD: semih
+OgrNo: 342
+Arasinav: 54
+Ikinci Sinav: 23
+Odev: 31
+Final: 85
+----------------------------
+AD: betül
+OgrNo: 354
+Arasinav: 75
+Ikinci Sinav: 92
+Odev: 76
+Final: 41
+----------------------------
+AD: mahmut
+OgrNo: 363
+Arasinav: 88
+Ikinci Sinav: 22
+Odev: 72
+Final: 25
+----------------------------
+AD: mehmet
+OgrNo: 376
+Arasinav: 91
+Ikinci Sinav: 96
+Odev: 75
+Final: 43
+----------------------------
+AD: emir
+OgrNo: 377
+Arasinav: 45
+Ikinci Sinav: 38
+Odev: 99
+Final: 45
+----------------------------
+AD: esma
+OgrNo: 379
+Arasinav: 54
+Ikinci Sinav: 34
+Odev: 55
+Final: 78
+----------------------------
+AD: salih
+OgrNo: 384
+Arasinav: 20
+Ikinci Sinav: 4
+Odev: 9
+Final: 6
+----------------------------
+AD: nazlı
+OgrNo: 392
+Arasinav: 81
+Ikinci Sinav: 43
+Odev: 53
+Final: 36
+----------------------------
+AD: ayça
+OgrNo: 393
+Arasinav: 22
+Ikinci Sinav: 4
+Odev: 31
+Final: 89
+----------------------------
+AD: ceylan
+OgrNo: 394
+Arasinav: 46
+Ikinci Sinav: 44
+Odev: 31
+Final: 12
+----------------------------
+AD: osman
+OgrNo: 398
+Arasinav: 78
+Ikinci Sinav: 95
+Odev: 12
+Final: 36
+----------------------------
+AD: veli
+OgrNo: 421
+Arasinav: 10
+Ikinci Sinav: 80
+Odev: 60
+Final: 55
+----------------------------
+AD: derya
+OgrNo: 422
+Arasinav: 98
+Ikinci Sinav: 85
+Odev: 89
+Final: 90
+----------------------------
+AD: fatma
+OgrNo: 423
+Arasinav: 46
+Ikinci Sinav: 64
+Odev: 90
+Final: 35
+----------------------------
+AD: veli
+OgrNo: 432
+Arasinav: 50
+Ikinci Sinav: 78
+Odev: 93
+Final: 65
+----------------------------
+AD: yunus
+OgrNo: 455
+Arasinav: 95
+Ikinci Sinav: 75
+Odev: 24
+Final: 69
+----------------------------
+AD: Hakkı
+OgrNo: 457
+Arasinav: 54
+Ikinci Sinav: 87
+Odev: 56
+Final: 23
+----------------------------
+AD: pırıl
+OgrNo: 458
+Arasinav: 65
+Ikinci Sinav: 23
+Odev: 86
+Final: 38
+----------------------------
+AD: Gizemsu
+OgrNo: 460
+Arasinav: 6
+Ikinci Sinav: 52
+Odev: 38
+Final: 2
+----------------------------
+AD: safinaz
+OgrNo: 468
+Arasinav: 42
+Ikinci Sinav: 76
+Odev: 9
+Final: 18
+----------------------------
+AD: bilge
+OgrNo: 472
+Arasinav: 64
+Ikinci Sinav: 49
+Odev: 93
+Final: 5
+----------------------------
+AD: berkay
+OgrNo: 475
+Arasinav: 69
+Ikinci Sinav: 14
+Odev: 74
+Final: 56
+----------------------------
+AD: hüsnü
+OgrNo: 480
+Arasinav: 19
+Ikinci Sinav: 45
+Odev: 44
+Final: 53
+----------------------------
+AD: sedef
+OgrNo: 486
+Arasinav: 45
+Ikinci Sinav: 52
+Odev: 80
+Final: 98
+----------------------------
+AD: arda
+OgrNo: 504
+Arasinav: 27
+Ikinci Sinav: 99
+Odev: 86
+Final: 51
+----------------------------
+AD: belgin
+OgrNo: 531
+Arasinav: 32
+Ikinci Sinav: 18
+Odev: 52
+Final: 89
+----------------------------
+AD: ilker
+OgrNo: 533
+Arasinav: 48
+Ikinci Sinav: 14
+Odev: 46
+Final: 88
+----------------------------
+AD: Harun
+OgrNo: 532
+Arasinav: 43
+Ikinci Sinav: 4
+Odev: 46
+Final: 62
+----------------------------
+AD: Muhammed
+OgrNo: 543
+Arasinav: 57
+Ikinci Sinav: 23
+Odev: 25
+Final: 87
+----------------------------
+AD: Hasan
+OgrNo: 544
+Arasinav: 23
+Ikinci Sinav: 54
+Odev: 54
+Final: 23
+----------------------------
+AD: Ümit
+OgrNo: 545
+Arasinav: 22
+Ikinci Sinav: 55
+Odev: 75
+Final: 100
+----------------------------
+AD: zeki
+OgrNo: 547
+Arasinav: 53
+Ikinci Sinav: 41
+Odev: 17
+Final: 46
+----------------------------
+AD: idris
+OgrNo: 555
+Arasinav: 56
+Ikinci Sinav: 87
+Odev: 7
+Final: 81
+----------------------------
+AD: Edanur 
+OgrNo: 560
+Arasinav: 90
+Ikinci Sinav: 85
+Odev: 83
+Final: 96
+----------------------------
+AD: gamze 
+OgrNo: 573
+Arasinav: 28
+Ikinci Sinav: 61
+Odev: 81
+Final: 70
+----------------------------
+AD: Hayri
+OgrNo: 586
+Arasinav: 84
+Ikinci Sinav: 48
+Odev: 5
+Final: 17
+----------------------------
+AD: eyşan
+OgrNo: 602
+Arasinav: 81
+Ikinci Sinav: 23
+Odev: 25
+Final: 73
+----------------------------
+AD: meryem
+OgrNo: 608
+Arasinav: 88
+Ikinci Sinav: 78
+Odev: 81
+Final: 61
+----------------------------
+AD: dilek
+OgrNo: 627
+Arasinav: 37
+Ikinci Sinav: 79
+Odev: 100
+Final: 21
+----------------------------
+AD: mehtap
+OgrNo: 648
+Arasinav: 11
+Ikinci Sinav: 10
+Odev: 5
+Final: 94
+----------------------------
+AD: ali
+OgrNo: 650
+Arasinav: 76
+Ikinci Sinav: 55
+Odev: 55
+Final: 90
+----------------------------
+AD: akif
+OgrNo: 656
+Arasinav: 52
+Ikinci Sinav: 36
+Odev: 49
+Final: 84
+----------------------------
+AD: Erdem 
+OgrNo: 677
+Arasinav: 60
+Ikinci Sinav: 70
+Odev: 80
+Final: 90
+----------------------------
+AD: beytullah
+OgrNo: 682
+Arasinav: 35
+Ikinci Sinav: 70
+Odev: 65
+Final: 90
+----------------------------
+AD: gizem
+OgrNo: 683
+Arasinav: 8
+Ikinci Sinav: 30
+Odev: 42
+Final: 96
+----------------------------
+AD: osman
+OgrNo: 685
+Arasinav: 44
+Ikinci Sinav: 12
+Odev: 55
+Final: 92
+----------------------------
+AD: Ertuğrul
+OgrNo: 686
+Arasinav: 68
+Ikinci Sinav: 84
+Odev: 57
+Final: 72
+----------------------------
+AD: emre
+OgrNo: 695
+Arasinav: 38
+Ikinci Sinav: 25
+Odev: 27
+Final: 4
+----------------------------
+AD: mehmet ali
+OgrNo: 723
+Arasinav: 40
+Ikinci Sinav: 60
+Odev: 90
+Final: 27
+----------------------------
+AD: Adem
+OgrNo: 725
+Arasinav: 40
+Ikinci Sinav: 45
+Odev: 50
+Final: 55
+----------------------------
+AD: alara
+OgrNo: 726
+Arasinav: 83
+Ikinci Sinav: 72
+Odev: 54
+Final: 36
+----------------------------
+AD: mehmet
+OgrNo: 769
+Arasinav: 54
+Ikinci Sinav: 21
+Odev: 46
+Final: 98
+----------------------------
+AD: aydın
+OgrNo: 784
+Arasinav: 15
+Ikinci Sinav: 56
+Odev: 78
+Final: 83
+----------------------------
+AD: galip
+OgrNo: 785
+Arasinav: 87
+Ikinci Sinav: 56
+Odev: 100
+Final: 60
+----------------------------
+AD: uğur
+OgrNo: 789
+Arasinav: 78
+Ikinci Sinav: 49
+Odev: 94
+Final: 41
+----------------------------
+AD: Damla
+OgrNo: 808
+Arasinav: 67
+Ikinci Sinav: 90
+Odev: 58
+Final: 80
+----------------------------
+AD: hilmi
+OgrNo: 828
+Arasinav: 18
+Ikinci Sinav: 79
+Odev: 13
+Final: 1
+----------------------------
+AD: Elif
+OgrNo: 835
+Arasinav: 7
+Ikinci Sinav: 52
+Odev: 88
+Final: 13
+----------------------------
+AD: salih
+OgrNo: 845
+Arasinav: 45
+Ikinci Sinav: 74
+Odev: 22
+Final: 45
+----------------------------
+AD: maraz ali
+OgrNo: 846
+Arasinav: 26
+Ikinci Sinav: 94
+Odev: 20
+Final: 51
+----------------------------
+AD: ömer
+OgrNo: 848
+Arasinav: 74
+Ikinci Sinav: 67
+Odev: 43
+Final: 76
+----------------------------
+AD: temel
+OgrNo: 863
+Arasinav: 25
+Ikinci Sinav: 50
+Odev: 75
+Final: 60
+----------------------------
+AD: kaan
+OgrNo: 889
+Arasinav: 51
+Ikinci Sinav: 11
+Odev: 74
+Final: 15
+----------------------------
+AD: büşra
+OgrNo: 892
+Arasinav: 43
+Ikinci Sinav: 21
+Odev: 40
+Final: 50
+----------------------------
+AD: yavuz
+OgrNo: 902
+Arasinav: 3
+Ikinci Sinav: 25
+Odev: 49
+Final: 75
+----------------------------
+AD: güliz
+OgrNo: 905
+Arasinav: 79
+Ikinci Sinav: 13
+Odev: 39
+Final: 49
+----------------------------
+AD: Sümeyye
+OgrNo: 908
+Arasinav: 75
+Ikinci Sinav: 68
+Odev: 44
+Final: 90
+----------------------------
+AD: abdulhey
+OgrNo: 925
+Arasinav: 10
+Ikinci Sinav: 32
+Odev: 97
+Final: 72
+----------------------------
+AD: arda
+OgrNo: 928
+Arasinav: 49
+Ikinci Sinav: 44
+Odev: 4
+Final: 30
+----------------------------
+AD: selim
+OgrNo: 929
+Arasinav: 93
+Ikinci Sinav: 40
+Odev: 100
+Final: 10
+----------------------------
+AD: ceylan
+OgrNo: 948
+Arasinav: 55
+Ikinci Sinav: 35
+Odev: 87
+Final: 11
+----------------------------
+AD: reyhan
+OgrNo: 954
+Arasinav: 25
+Ikinci Sinav: 11
+Odev: 31
+Final: 100
+----------------------------
+AD: özcan
+OgrNo: 958
+Arasinav: 54
+Ikinci Sinav: 15
+Odev: 45
+Final: 97
+----------------------------
+AD: jale
+OgrNo: 961
+Arasinav: 71
+Ikinci Sinav: 88
+Odev: 58
+Final: 56
+----------------------------
+AD: ezel
+OgrNo: 962
+Arasinav: 58
+Ikinci Sinav: 5
+Odev: 79
+Final: 67
+----------------------------
+AD: Berk
+OgrNo: 963
+Arasinav: 65
+Ikinci Sinav: 48
+Odev: 89
+Final: 87
+----------------------------
+AD: ayşe
+OgrNo: 964
+Arasinav: 81
+Ikinci Sinav: 32
+Odev: 94
+Final: 26
+----------------------------
+AD: hüseyin
+OgrNo: 982
+Arasinav: 84
+Ikinci Sinav: 63
+Odev: 75
+Final: 80
+----------------------------
+AD: çakır
+OgrNo: 983
+Arasinav: 53
+Ikinci Sinav: 64
+Odev: 75
+Final: 86
+----------------------------
+AD: gizem
+OgrNo: 998
+Arasinav: 38
+Ikinci Sinav: 60
+Odev: 82
+Final: 16
+----------------------------
+AD: Ali
+OgrNo: 999
+Arasinav: 87
+Ikinci Sinav: 23
+Odev: 54
+Final: 23
+----------------------------
