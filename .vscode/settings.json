@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "string": "cpp",
+        "dynamicarrays.C": "cpp",
+        "iostream": "cpp",
+        "xstring": "cpp",
+        "ostream": "cpp",
+        "iosfwd": "cpp"
+    }
+}
