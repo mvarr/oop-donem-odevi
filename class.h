@@ -1,25 +1,28 @@
-#include<string>
 #ifndef CLASS_H
 #define CLASS_H
 
+#include <string>
+using namespace std;
 
-class student{
-public:
-student();
-~student();
-double average(double);
-void readFromCSV(const string&);
-void print();
-
+class Student {
 private:
-string* ad; 
-string* ogrNo; 
-double* araSinav;
-double* ikinciSinav;
-double* odev;
-double* final;
-int* devamSayisi;
-int size;
+    string* AD;
+    int* ogrno;
+    int* Arasinav;
+    int* ikinciSinav;
+    int* Odev;
+    int* Final;
+    int* Devam;
+    int Count;          // Öğrenci sayısı
+    int capacity;       // Maksimum kapasite
 
-} ;
+public:
+    Student(int max_capacity = 200);  // Constructor
+    ~Student();                       // Destructor
+
+    void readFromCSV();
+    double average(int index) const;
+    void print(const string& input);
+};
+
 #endif
